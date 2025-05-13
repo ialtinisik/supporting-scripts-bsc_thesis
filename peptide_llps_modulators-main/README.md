@@ -38,8 +38,6 @@ export PYTHONPATH="./peptide_llps_modulators:$PYTHONPATH"
 - SupportVectorRegressor
 - RandomForestRegressor
 - Ridge/Lasso
-- maybe GaussianProcesses
-- maybe MLPRegressor
 
 ## CSC 
 measure turbditiy at increasing salt concentration using nephelometry 
